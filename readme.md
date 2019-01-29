@@ -14,7 +14,7 @@ If you want to make some changes in the /src folder and want that as an valid pa
 ### How to use
 
 ```typescript
-import { Log, LogLevel } from "eco-os-pk-log";
+import { Log, LogLevel } from "eco-log";
 
 Log.log("test", LogLevel.info);
 Log.log("test", LogLevel.warning);
