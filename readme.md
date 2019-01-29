@@ -22,3 +22,7 @@ Log.log("test", LogLevel.debug);
 Log.log("test", LogLevel.error);
 Log.log("test", LogLevel.trace);
 ```
+
+Looking always foreward to feedback.
+
+Happy using and keep coding =)
