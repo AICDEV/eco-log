@@ -1,4 +1,4 @@
-# eco-os-pk-log
+# eco-log
 
 Simple log system. From the upcomming eco cloud stack.
 

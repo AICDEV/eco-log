@@ -1,5 +1,5 @@
 {
-  "name": "eco-os-pk-log",
+  "name": "eco-log",
   "version": "1.0.0",
   "description": "package for logging",
   "main": "lib/index.js",
