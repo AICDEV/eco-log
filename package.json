@@ -1,7 +1,12 @@
 {
   "name": "eco-log",
-  "version": "1.0.1",
-  "description": "package for logging",
+  "version": "1.0.2",
+  "description": "easy, lightweight and simple to use log system for node js.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AICDEV/eco-log"
+  },
+  "homepage": "https://github.com/AICDEV/eco-log/blob/master/readme.md",
   "main": "lib/index.js",
   "author": "aicdev",
   "license": "Apache-2.0",
