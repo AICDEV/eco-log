@@ -1,6 +1,6 @@
 {
   "name": "eco-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "easy, lightweight and simple to use log system for node js.",
   "repository": {
     "type": "git",
