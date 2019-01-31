@@ -2,6 +2,7 @@
   "name": "eco-log",
   "version": "1.0.3",
   "description": "easy, lightweight and simple to use log system for node js.",
+  "keywords": ["log","logging","lightweigth log", "log files", "monitoring","eco","eco-log","yarn log","npm log"],
   "repository": {
     "type": "git",
     "url": "https://github.com/AICDEV/eco-log"
